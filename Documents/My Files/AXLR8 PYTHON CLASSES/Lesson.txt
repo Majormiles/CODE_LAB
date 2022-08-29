@@ -1,0 +1,16 @@
+:::::::::::::::::::::::: CLASSES :::::::::::::::::::::::::::
+
+
+
+file = open ("Names.txt", "w")
+
+Where: 
+	a. w(write) is an attribute
+	b. a(append) is an attribute 
+	c. r(read) is an attribute 
+	
+
+
+:::::::::::::::::::::: HOW TO WRITE IN CLASS ::::::::::::::::::::::
+
+You begin with class Human():

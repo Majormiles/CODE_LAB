@@ -1,0 +1,239 @@
+ Using while loops, display a prime number between 2 to 100
+
+
+
+
+Name = ["Peter", "Paul", "John", "Samuel"]
+
+
+i = 0
+while i < len(Name):
+    print(Name[i])
+    i +=1
+
+    
+Peter
+Paul
+John   
+Samuel
+
+  
+
+
+
+i = -1
+while i>=-len(Name):
+    print(Name[i])
+    i = i-1
+
+    
+Samuel
+John
+Paul
+Peter
+
+
+
+
+
+
+A function that takes argument accept result from outside
+
+
+A function that do not take argument, do not return any result.
+
+
+
+
+
+
+
+def SayMyName():
+    print(" my name is Myles")
+
+    
+SayMyName()
+ my name is Myles
+
+
+
+
+
+
+
+
+
+x = 1
+while x < 6:
+    SayMyName()
+    x +=1
+
+    
+my name is Myles
+my name is Myles
+
+
+my name is Myles
+my name is Myles
+my name is Myles
+
+
+
+Assignment.
+
+
+Write a program that ask the user for their name and age, calculate 
+the year in which he/she was born and it should say "Hello Myles", you are 
+born in "Then the year". 
+
+1. Use the function, (getyear(age))
+				return age
+
+
+2. You ask for input
+
+
+
+
+
+RANDOM FUNCTION
+
+
+
+Git is application that helps you keep track of your source code
+
+Github is a platform 
+
+
+
+
+			          NOTES 
+
+
+:::::::::::::::::::::::      FORK     :::::::::::::::::::::::::::::
+
+#FORK YOUR PARTNER'S REPO
+
+
+cat README.md (Read from a file === Use the cat to read from a file)
+
+
+$ echo " making edits">README.md (Use echo to print a message)
+
+$echo " #My Visions for this Application" >README.md (To add file )
+
+
+ShortCut for returning back when there is a mistake ( Ctrl + c)
+
+If you want to add files, use ( git add .)
+
+
+
+
+
+::::::::::::::::::::: GIT CONFLICT :::::::::::::::::::::::
+
+
+He had a file online and he didn't created the README.md on the online.
+
+git pull : When you use the git pull, it automatically fetches and merge the files online
+
+
+Note: One angle (>) overrides the content of existing file
+
+
+Note: Double angle bracket (>>) 
+
+$echo " #Learning-Python">>README.md
+
+
+
+
+:::::::::::::::::::::::::::: README.md :::::::::::::::::::::::::::::::::::::
+
+The README.md can contain the style guide. 
+
+
+
+
+GIT CHECKOUT 
+
+We use git checkout to move between branches 
+
+
+
+
+
+
+ 
+
+
+
+
+::::::::::::::::::::::::: HACKERRANK.COM::::::::::::::::::::::::::::
+
+
+NOTE: Point of Sales (POS)
+
+
+
+
+
+::::::::::::::::::::::::::::::: NLA PROGRAMM ::::::::::::::::::::::::::::::::
+
+input: *959#
+
+1. Monday Special
+
+2. Draw Results 
+
+
+OPTIONS 
+
+1. Direct - 1
+
+2. 2 Sure 
+
+3. Direct 3
+
+4. Direct 4
+
+5. Direct 5
+
+6. Perm 3 or more
+
+
+
+SELECT OPTION 
+
+
+1. Select 1 to 90
+
+2. Enter Draw to play (1 - 200)
+
+
+
+
+
+
+online Platform
+
+>>>>>>>>>>> Educative <<<<<<<<<<<<<
+
+
+
+
+ASSIGNMENT 
+
+
+Tasks: When you call the draw, check if the number the person has entered 
+is in the drawn numbers. 
+
+
+
+
+
+
+
+
+
